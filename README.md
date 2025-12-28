@@ -1,1 +1,2 @@
-Implementation of Denoising Diffusion Probabilist Models (https://arxiv.org/pdf/2006.11239).
+Implementation of Denoising Diffusion Probabilistic Models (https://arxiv.org/pdf/2006.11239).
+
